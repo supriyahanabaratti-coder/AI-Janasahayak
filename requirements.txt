@@ -1,0 +1,8 @@
+
+streamlit
+pymupdf
+python-dotenv
+google-genai
+streamlit-mic-recorder
+SpeechRecognition
+pydub
